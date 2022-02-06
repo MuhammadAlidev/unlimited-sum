@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgKJ8jZiDmgWbN4JW15fEMo9TjoTqLlspPWBEvWp67FayaWh8VKdbxScCL5fqO3/q90F7ADEiuP6B6CzWq9OAg==",
+  "success": true,
+  "projectFilePath": "E:\\Office\\Office Sator-it\\Unlimited Sum\\Unlimited Sum\\Unlimited Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
